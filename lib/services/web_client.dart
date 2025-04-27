@@ -1,6 +1,5 @@
 import 'package:http/http.dart';
 import 'package:http_interceptor/http/intercepted_client.dart';
-import 'package:mockito/annotations.dart';
 
 import 'logger_interceptor.dart';
 
